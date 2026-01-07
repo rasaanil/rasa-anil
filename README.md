@@ -1,2 +1,21 @@
-# rasa-anil
-This project gives entire knowledge on C++ features.
+## Hi 👋 I'm Anil Rasa
+
+🚗 C++ Software Engineer | Automotive Domain  
+🧠 Embedded Systems | QNX | RTOS  
+💻 3+ Years Experience  
+
+### 🔧 Skills
+- C++, STL, OOPs
+- QNX, Embedded Linux
+- Multithreading
+- Unit Testing (GTest / GMock)
+- Design Patterns
+
+### 📂 Projects
+- Automotive HMI (RHMI, Qt/QML)
+- Safety & Control Modules
+- TCP/IP Communication
+
+### 📫 Contact
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: yourmail@gmail.com
